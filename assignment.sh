@@ -6,5 +6,6 @@ echo "Welcome to the class $name"
 
 
 echo "Hai"
+touch jenkins.sh
  
 
